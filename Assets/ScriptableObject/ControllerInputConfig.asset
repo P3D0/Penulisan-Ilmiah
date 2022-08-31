@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24916857173f9b34ca42bfb9b96ed581, type: 3}
+  m_Name: ControllerInputConfig
+  m_EditorClassIdentifier: 
+  inputAcceleration: 4.2
+  sideBackMultiplier: 0
+  smoothTime: 0.08
+  stunSpeed: -3
+  stunSmooth: 0.15
+  stunDuration: 2
+  leftInputs: 61000000
+  rightInputs: 64000000
+  upInputs: 77000000
+  downInputs: 73000000

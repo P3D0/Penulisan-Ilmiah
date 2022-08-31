@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9462ce51b1080d845ab398fb458a7d15, type: 3}
+  m_Name: ChunkConfigur
+  m_EditorClassIdentifier: 
+  chunkSize: 70
+  baseSpeed: 5
+  dropChunkDelayCount: 5
+  collectibleChunkDelayCount: 2
+  collectibleChunkOdds: 1
+  startingChunks:
+  - {fileID: 5336160362906736331, guid: c3049a091bd27ef48a4b294bbcc4c3de, type: 3}
+  - {fileID: 2162850945066149854, guid: 0e20dd9351607de46b82f76b9399ba1f, type: 3}
+  - {fileID: 8526371077693457353, guid: d5c6be5f9760d8543b00351b354c7f29, type: 3}
+  - {fileID: 8526371077693457353, guid: d5c6be5f9760d8543b00351b354c7f29, type: 3}
+  - {fileID: 8526371077693457353, guid: d5c6be5f9760d8543b00351b354c7f29, type: 3}
+  normalChunks:
+  - {fileID: 2361096530814812872, guid: 3dcd5286502e8e4438647f337c757736, type: 3}
+  - {fileID: 1820260017988772791, guid: c1f257bb7c2460947add6522c24ac25a, type: 3}
+  - {fileID: 2361096530814812872, guid: 3dcd5286502e8e4438647f337c757736, type: 3}

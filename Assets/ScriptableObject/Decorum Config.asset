@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40cecbba7a30f474eb22e45a2bf21afc, type: 3}
+  m_Name: Decorum Config
+  m_EditorClassIdentifier: 
+  decorumObjects:
+  - {fileID: 5182540959940758856, guid: 79195aa4e70339548b94a26fc4316db4, type: 3}
+  - {fileID: 7380730136344998992, guid: b9666b59d9797774b825807f7f9fdc08, type: 3}
+  - {fileID: 7410244153454972457, guid: 401d17759c659a240b2b4e45a4b4f342, type: 3}
+  - {fileID: 7925159452301763473, guid: 8fc108d793765f941a7f035a1a3077ef, type: 3}
+  decorumDistanceFromCenter: 9
+  decorumDistanceFromEachOther: 7
+  poolAmount: 20
